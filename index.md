@@ -7,7 +7,7 @@ description: Norika's sample page
 sitemap:
   priority: 1.0
 ---
-<p class="describe-text">Norika's sample page</p>
+<p class="describe-text"></p>
 <br>
 Introductions here.
 
